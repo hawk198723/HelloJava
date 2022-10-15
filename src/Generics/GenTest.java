@@ -7,7 +7,7 @@ public class GenTest {
         for (E element : inputArray) {
             System.out.printf("%s ", element);
         }
-        System.out.println("----");
+        System.out.println("-----");
     }
 
 
